@@ -35,7 +35,7 @@
   "homepage": "https://github.com/felixrieseberg/electron-windows-store#readme",
   "dependencies": {
     "chalk": "^2.4.1",
-    "commander": "^2.19.0",
+    "commander": "^2.20.3",
     "debug": "^4.1.0",
     "fs-extra": "^7.0.0",
     "inquirer": "^6.2.0",
