@@ -38,7 +38,7 @@
     "commander": "^2.19.0",
     "debug": "^4.1.0",
     "fs-extra": "^7.0.0",
-    "inquirer": "^6.2.0",
+    "inquirer": "^7.0.5",
     "lodash.defaults": "^4.2.0",
     "lodash.merge": "^4.6.1",
     "multiline": "^2.0.0",
@@ -52,7 +52,7 @@
     "chai-as-promised": "^7.1.1",
     "mocha": "^5.2.0",
     "mockery": "^2.1.0",
-    "semantic-release": "^15.10.7",
-    "standard": "^12.0.1"
+    "semantic-release": "^17.0.1",
+    "standard": "^15.0.0"
   }
 }
